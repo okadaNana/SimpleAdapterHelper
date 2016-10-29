@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseAdapterHelper</string>
+    <string name="title_activity_multiple_layout_recycler_view">MultipleLayoutRecyclerViewActivity
+    </string>
+</resources>
